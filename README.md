@@ -1,1 +1,2 @@
 # s10244183_TraciaLee_Asg1
+as a fan of keshi's music and an often visitor of his website, it gave me an inspiration of recreating a website about him. the enquiry form on the contact page can allow fans or listeners to send messages that are constructive to his team. the wireframe of my website made with the XD app is in this forlder as well. from this website i hope 
