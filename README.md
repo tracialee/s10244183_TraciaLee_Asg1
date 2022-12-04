@@ -19,6 +19,7 @@ for my links and images i used google to do my research.
 ## Testing
 
 submitting an empty form an error message about the required fields appears, an invalid email address and a relevant error message appears and the form with all inputs valid and a success message appears.
+the main problem would be to pass on message from the shopping cart to checkout.
 
 ## Credits
 w3school
